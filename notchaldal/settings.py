@@ -27,8 +27,7 @@ SECRET_KEY = 'xww_sq7hmmb$t4&x56jlx*a663@ktldzky4@4y=berale-04i1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1',
-                 'https://notchaldal.herokuapp.com/', ]
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'notchaldal.herokuapp.com', ]
 
 
 # Application definition
