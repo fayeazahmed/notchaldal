@@ -1,0 +1,1 @@
+web: gunicorn notchaldal.wsgi --log-file -
