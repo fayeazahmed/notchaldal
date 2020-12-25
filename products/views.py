@@ -13,7 +13,6 @@ class GetProductsView(APIView):
 
         try:
             products = Product.objects.filter(category=category)
-            print(products)
             serializer = ProductSerializer(products, many=True)
             return Response(serializer.data)
 
