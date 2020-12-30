@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/notchaldal/static/css/main.b1a4313a.chunk.css",
+    "main.js": "/notchaldal/static/js/main.ac390e62.chunk.js",
+    "main.js.map": "/notchaldal/static/js/main.ac390e62.chunk.js.map",
+    "runtime-main.js": "/notchaldal/static/js/runtime-main.03976391.js",
+    "runtime-main.js.map": "/notchaldal/static/js/runtime-main.03976391.js.map",
+    "static/js/2.1fe4958e.chunk.js": "/notchaldal/static/js/2.1fe4958e.chunk.js",
+    "static/js/2.1fe4958e.chunk.js.map": "/notchaldal/static/js/2.1fe4958e.chunk.js.map",
+    "index.html": "/notchaldal/index.html",
+    "static/css/main.b1a4313a.chunk.css.map": "/notchaldal/static/css/main.b1a4313a.chunk.css.map",
+    "static/js/2.1fe4958e.chunk.js.LICENSE.txt": "/notchaldal/static/js/2.1fe4958e.chunk.js.LICENSE.txt",
+    "static/media/batteries.jpg": "/notchaldal/static/media/batteries.c75b85f3.jpg",
+    "static/media/food.jpg": "/notchaldal/static/media/food.5264ad12.jpg",
+    "static/media/fruits.jpg": "/notchaldal/static/media/fruits.49772aaa.jpg",
+    "static/media/health.png": "/notchaldal/static/media/health.2628201e.png",
+    "static/media/healthcare.jpg": "/notchaldal/static/media/healthcare.d0561f17.jpg",
+    "static/media/meat.jpg": "/notchaldal/static/media/meat.d7874973.jpg",
+    "static/media/office.jpg": "/notchaldal/static/media/office.a78af59f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03976391.js",
+    "static/js/2.1fe4958e.chunk.js",
+    "static/css/main.b1a4313a.chunk.css",
+    "static/js/main.ac390e62.chunk.js"
+  ]
+}
