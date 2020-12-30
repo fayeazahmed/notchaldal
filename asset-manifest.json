@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/notchaldal/static/css/main.b1a4313a.chunk.css",
-    "main.js": "/notchaldal/static/js/main.ac390e62.chunk.js",
-    "main.js.map": "/notchaldal/static/js/main.ac390e62.chunk.js.map",
+    "main.js": "/notchaldal/static/js/main.357e95c2.chunk.js",
+    "main.js.map": "/notchaldal/static/js/main.357e95c2.chunk.js.map",
     "runtime-main.js": "/notchaldal/static/js/runtime-main.03976391.js",
     "runtime-main.js.map": "/notchaldal/static/js/runtime-main.03976391.js.map",
     "static/js/2.1fe4958e.chunk.js": "/notchaldal/static/js/2.1fe4958e.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.03976391.js",
     "static/js/2.1fe4958e.chunk.js",
     "static/css/main.b1a4313a.chunk.css",
-    "static/js/main.ac390e62.chunk.js"
+    "static/js/main.357e95c2.chunk.js"
   ]
 }
